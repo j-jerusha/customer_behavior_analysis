@@ -1,62 +1,57 @@
-Customer Shopping Behavior Analysis
-📌 Overview
+# Customer Shopping Behavior Analysis
 
-This project focuses on analyzing customer shopping behavior using a complete data analytics workflow. It covers data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, and visualization through an interactive Power BI dashboard. The insights are summarized in a structured report and a presentation created using Gamma AI.
+## 📌 Overview
+This project focuses on analyzing customer shopping behavior using an end-to-end data analytics workflow. It includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, and visualization using Power BI. The insights are summarized through a structured report and a professional presentation created using Gamma AI.
 
-The goal of this project is to extract meaningful business insights that help understand customer patterns, spending behavior, and key performance metrics.
+The objective of this project is to derive actionable insights that help understand customer purchasing patterns and business performance.
 
-📊 Dataset
-Customer shopping behavior dataset
-Contains demographic details, purchase information, discounts, and transaction data
-Raw data was processed and cleaned before analysis
-🛠 Tools & Technologies
-Python – Data loading, EDA, and data cleaning
-Jupyter Notebook – Analysis and preprocessing
-SQL – PostgreSQL / MySQL / SQL Server for querying and insights
-Power BI – Interactive dashboard creation
-Gamma AI – Presentation (PPT) creation
-GitHub – Version control and project hosting
-🔍 Project Workflow
-Data Loading
-Imported dataset into Python using pandas
-Exploratory Data Analysis (EDA)
-Identified trends, patterns, and anomalies
-Checked data distributions and correlations
-Data Cleaning
-Handled missing values and duplicates
-Standardized column names and data types
-SQL Analysis
-Loaded cleaned data into SQL databases
-Executed analytical queries (aggregations, rankings, comparisons)
-Dashboard Development
-Built an interactive Power BI dashboard
-Visualized customer behavior, revenue trends, and key KPIs
-Reporting & Presentation
-Created a detailed analysis report
-Designed a professional PPT using Gamma AI
-📈 Power BI Dashboard
+---
 
-The dashboard provides:
+## 📊 Dataset
+- Customer shopping behavior dataset  
+- Includes demographic details, purchase history, discounts, and transaction data  
+- Raw data was cleaned and transformed before analysis  
 
-Customer segmentation insights
-Revenue analysis by demographics
-Purchase trends and discount impact
-Key metrics for decision-making
+---
 
-(Dashboard file included in the repository)
+## 🛠 Tools & Technologies
+- **Python** – Data loading, EDA, and data cleaning  
+- **Jupyter Notebook** – Analysis and preprocessing  
+- **SQL** – PostgreSQL / MySQL / SQL Server  
+- **Power BI** – Interactive dashboard creation  
+- **Gamma AI** – Presentation (PPT) creation  
+- **GitHub** – Version control and project hosting  
 
-✅ Results & Insights
-Identified spending patterns across customer groups
-Analyzed the impact of discounts on purchase behavior
-Highlighted high-value customer segments
-Provided data-driven insights for business strategy
-▶️ How to Run This Project
+---
 
-Clone the repository:
+## 🔍 Project Workflow
+1. Data Loading using Python (pandas)
+2. Exploratory Data Analysis (EDA)
+3. Data Cleaning and Preprocessing
+4. SQL Analysis on relational databases
+5. Power BI Dashboard development
+6. Report and presentation generation
 
-git clone https://github.com/j-jerusha/customer_behavior_analysis.git
-Open the Jupyter Notebook and run all cells for EDA and data cleaning
-Import the cleaned dataset into PostgreSQL / MySQL / SQL Server
-Execute SQL queries provided in the SQL scripts
-Open the Power BI file to explore the dashboard
-Review the report and presentation for summarized insights
+---
+
+## 📈 Power BI Dashboard
+The dashboard highlights:
+- Customer segmentation and demographics  
+- Revenue and purchase trends  
+- Discount impact analysis  
+- Key performance indicators (KPIs)  
+
+---
+
+## ✅ Results & Insights
+- Identified key customer spending patterns  
+- Analyzed revenue distribution across demographics  
+- Evaluated the effect of discounts on purchasing behavior  
+- Delivered data-driven insights to support business decisions  
+
+---
+
+## ▶️ How to Run This Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/j-jerusha/customer_behavior_analysis.git
